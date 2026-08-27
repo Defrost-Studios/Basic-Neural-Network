@@ -33,3 +33,4 @@ python mnist_nn.py
 
 ## Credits
 * Base code implemented using Samson Zhang's tutorial (https://www.youtube.com/watch?v=w8yWXqWQYmU)
+* Used Ai tools selectively to resolve implementation bugs and Format Confusion Matrix Table
